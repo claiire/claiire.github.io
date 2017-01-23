@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     width: 50%;
-    background-color: #100;
+    background-color: #611;
     position: fixed; /* Make it stick, even on scroll */
     overflow: auto; /* Enable scrolling if the sidenav has too much content */
 }
@@ -11,7 +11,7 @@
 #navbar a {
     display: block;
     padding: 8px;
-    width: 60px;
+    width: 90px;
     color: #fb0;
     text-decoration: none;
 }
@@ -20,7 +20,11 @@
     float: left;
 }
 
+#navbar li a:hover:not(.active) {
+    background-color: #704444;
+}
+
 .active {
-    background-color: #300;
+    background-color: #911;
 }
 
