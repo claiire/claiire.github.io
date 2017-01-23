@@ -1,0 +1,26 @@
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 50%;
+    background-color: #100;
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
+}
+
+#navbar a {
+    display: block;
+    padding: 8px;
+    width: 60px;
+    color: #fb0;
+    text-decoration: none;
+}
+
+#navbar li {
+    float: left;
+}
+
+.active {
+    background-color: #300;
+}
+
