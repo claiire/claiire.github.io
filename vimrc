@@ -1,3 +1,4 @@
+" Simple, sane, vanilla vimrc file that I can curl when I find myself using a new machine.
 syntax on
 filetype indent on
 set tabstop=4
