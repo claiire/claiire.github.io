@@ -1,0 +1,1 @@
+export PS1='\n \[$(tput bold)\]\[$(tput setaf 6)\]\A \[$(tput setaf 3)\]\W \[$(tput setaf 2)\]\$ \[$(tput sgr0)\]'
