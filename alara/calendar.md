@@ -5,7 +5,7 @@
 | Name | Abbreviation | Earth Equivalent|
 |-----|-----|-----|
 | Kordi | Ki | Monday |
-| Maradi | Mi | Tuesday |
+| Mardi | Mi | Tuesday |
 | Tulkredi | Ti | Wednesday |
 | Hesterdi | Hi | Thursday |
 | Vandradi | Ai | Friday |
