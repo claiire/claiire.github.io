@@ -2,6 +2,16 @@
 
 ## The Week
 
-| Foo | Bar |baz |
+| Name | Abbreviation | Earth Equivalent|
 |-----|-----|-----|
-| 1 | 2 |3|
+| Kordi | Ki | Monday |
+| Maradi | Mi | Tuesday |
+| Tulkredi | Ti | Wednesday |
+| Hesterdi | Hi | Thursday |
+| Avandradi | Ai | Friday |
+| - | - | Saturday |
+| Dior | Pi | Sunday |
+
+## The Months
+
+## Major Holidays
