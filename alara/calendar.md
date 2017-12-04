@@ -8,7 +8,7 @@
 | Maradi | Mi | Tuesday |
 | Tulkredi | Ti | Wednesday |
 | Hesterdi | Hi | Thursday |
-| Avandradi | Ai | Friday |
+| Vandradi | Ai | Friday |
 | - | - | Saturday |
 | Dior | Pi | Sunday |
 
