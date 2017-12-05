@@ -11,7 +11,7 @@
 | Hestdi | Hi | Thursday |
 | Vandradi | Ai | Friday |
 | Syldi | Si | Saturday |
-| Dilor | Pi | Sunday |
+| Dior | Pi | Sunday |
 
 ## The Months
 
