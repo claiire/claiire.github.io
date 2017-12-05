@@ -9,7 +9,7 @@
 | Tulkadi | Ti | Wednesday |
 | Hestdi | Hi | Thursday |
 | Vandradi | Ai | Friday |
-| - | - | Saturday |
+| Syldi | Si | Saturday |
 | Dior | Pi | Sunday |
 
 ## The Months
