@@ -3,7 +3,7 @@
 Alara is a fantasy setting built around principles of radical queer inclusion. Important characters in Alara's history are trans, nonbinary, gay, pansexual, otherkin, etc. Alara is a world on the brink, caught in a war of ideologies as the fascist forces of Hadrax are starting to encroach upon the socialist Kalvos Union and the capitalist Grand Ostaran Republic.
 
 * Lore
-  * Calendar
+  * [Calendar](./alara/calendar)
   * Timeline
   * Pantheon
   * Stories
