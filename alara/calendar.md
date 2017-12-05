@@ -8,7 +8,7 @@
 | Kordi | Ki | Monday |
 | Mardi | Mi | Tuesday |
 | Tulkadi | Ti | Wednesday |
-| Hestdi | Hi | Thursday |
+| Hesdi | Hi | Thursday |
 | Vandradi | Ai | Friday |
 | Syldi | Si | Saturday |
 | Dior | Pi | Sunday |
