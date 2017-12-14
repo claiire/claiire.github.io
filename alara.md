@@ -13,6 +13,9 @@ Alara is a fantasy setting built around principles of radical queer inclusion. I
   * Hadrax's Empire
   * Grand Ostaran Republic
   * Ara Hailan
+  * Mjorstaad
+  * Axlun Bas
+  * Axlun Xat
   * Reya
 
 Alara is free for all to use and the whole project is CC BY SA 4.0
