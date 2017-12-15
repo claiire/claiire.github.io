@@ -1,5 +1,5 @@
 # Nations of Alara
- * Kalvos Union
+ * (Kalvos)[./nations/kalvos.md]
  * Hadrax's Empire
  * Grand Ostaran Republic
  * Ara Hailan
