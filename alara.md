@@ -8,15 +8,8 @@ Alara is a fantasy setting built around principles of radical queer inclusion. I
   * Pantheon
   * Stories
   * Ideologies
-* Nations
-  * Kalvos Union
-  * Hadrax's Empire
-  * Grand Ostaran Republic
-  * Ara Hailan
-  * Mjorstaad
-  * Axlun Bas
-  * Axlun Xat
-  * Reya
+* [Nations](./alara/nations)
+
 
 Alara is free for all to use and the whole project is CC BY SA 4.0
 
