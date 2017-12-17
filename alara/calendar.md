@@ -43,6 +43,7 @@
 ## Holidays
 
 | Holiday | Night | Role |
+| --- | --- | --- |
 | Hestus | 28 Kormon - 1 Hestmon | New Years |
 | Beltane | 14 Sylmon - 15 Sylmon | Spring Equinox, Fertility, New Life Celebration |
 | Pyras | 28 Shenmon - 1 Tulmon | Bonfire Night |
