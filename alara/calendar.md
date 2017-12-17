@@ -51,7 +51,7 @@
 | Lammas | 28 Vilmon - 1 Aurmon | First Harvest, Festival of Bread and Beer |
 | Midfall | 14 Avmon - 15 Avmon | Fall Equinox, Second Harvest, Gratitude |
 | Samhain | 28 Huntmon - 1 Talmon | Final Harvest, Day of Dead |
-| Yule | 14 Anmon - 15 Anmon | Winter Solstice, Togetherness, Relevrly | 
+| Yule | 14 Anmon - 15 Anmon | Winter Solstice, Togetherness, Revelry | 
 
 ## Calendar Generation
 
