@@ -16,17 +16,17 @@
 ## The Months
 |#| Name | Abbreviation | Earth Equivalent |
 |-|---|----|----|---|
-|1|Hestmon|Hen|March|
-|2|Sylmon|Syn|April|
-|3|Shenmon|Shn|May|
-|4|Tulmon|Tun|June|
-|5|Pelmon|Pen|July|
-|6|Vilmon|Vin|August|
-|7|Aurmon|Aun|September|
-|8|Avmon|Avn|October|
-|9|Huntmon|Hun|November|
-|10|Talmon|Tan|December|
-|11|Anmon|Ann| January|
-|12|Kormon|Kon|February|
+|1| Hestmon | Hen | March |
+|2| Sylmon | Syn | April |
+|3| Shenmon | Shn | May |
+|4| Tulmon | Tun | June |
+|5| Pelmon | Pen | July |
+|6| Vilmon | Vin | August |
+|7| Aurmon | Aun | September |
+|8| Avmon | Avn | October |
+|9| Huntmon | Hun | November |
+|10| Talmon | Tan | December |
+|11| Anmon | Ann | January |
+|12| Kormon | Kon | February |
 
 ## Major Holidays
