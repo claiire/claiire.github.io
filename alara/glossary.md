@@ -15,7 +15,7 @@
 
 |word|definition|
 |--|--|
-| invasion of Mjurstaad | a self-destructive act, a suicide mission |
+| invasion of Mjurstaad | a suicide mission |
 
 # L
 |word|definition|
