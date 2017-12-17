@@ -57,11 +57,12 @@
 
 For a nice-looking year calendar, go to http://donjon.bin.sh/fantasy/calendar/ and restore from the following json:
 
-    {"year_len":336,"events":0,"n_months":12,"months":
-    ["Hestmon","Sylmon","Shenmon","Tulmon","Pelmon","Vilmon","Aurmon",
-    "Avmon","Huntmon","Talmon","Anmon","Kormon"],"month_len":
-    {"Hestmon":28,"Sylmon":28,"Shenmon":28,"Tulmon":28,"Pelmon":28,"Vilmon":28,
-    "Aurmon":28,"Avmon":28,"Huntmon":28,"Talmon":28,"Anmon":28,"Kormon":28},
-    "week_len":7,"weekdays":["Kordi","Mardi","Tulkadi","Hesdi","Vandradi","Syldi",
-    "Dior"],"n_moons":1,"moons":["Antara"],"lunar_cyc":{"Antara":28},"lunar_shf":
-    {"Antara":26},"year":0,"first_day":0,"notes":{}}
+    {"year_len":336,"events":0,"n_months":12,"months":["Hestmon","Sylmon","Shenmon","Tulmon",
+    "Pelmon","Vilmon","Aurmon","Avmon","Huntmon","Talmon","Anmon","Kormon"],"month_len":{"Hestmon":28,
+    "Sylmon":28,"Shenmon":28,"Tulmon":28,"Pelmon":28,"Vilmon":28,"Aurmon":28,"Avmon":28,"Huntmon":28,
+    "Talmon":28,"Anmon":28,"Kormon":28},"week_len":7,"weekdays":["Kordi","Mardi","Tulkadi","Hesdi","Vandradi","Syldi","Dior"],
+    "n_moons":1,"moons":["Antara"],"lunar_cyc":{"Antara":28},"lunar_shf":{"Antara":26},"year":0,"first_day":0,"notes":
+    {"0-1-1":"End Hestus","0-12-28":"Begin Hestus","0-2-14":"Begin Beltane","0-2-15":"End Beltane","0-3-28":"Begin Pyras",
+    "0-4-1":"End Pyras","0-5-14":"Begin Midsummer","0-5-15":"End Midsummer","0-6-28":"Begin Lammas","0-7-1":"End Lammas",
+    "0-8-14":"Begin Midfall","0-8-15":"End Midfall","0-9-28":"Begin Samhain","0-10-1":"End Samhain","0-11-14":"Begin Yule",
+    "0-11-15":"End Yule"}}
