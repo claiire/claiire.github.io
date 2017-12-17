@@ -30,4 +30,24 @@
 |11| Anmon | Ann | January |
 |12| Kormon | Kon | February |
 
-## Major Holidays
+## Moon Phases
+
+| Phase | Night |
+|-------|-------|
+| New   | 28th - 1st |
+| First Quarter | 7th-8th |
+| Full Moon | 14th - 15th |
+| Last Quarter | 21st - 22nd |
+| New Moon | 28th - 1st |
+
+## Holidays
+
+| Holiday | Night | Role |
+| Hestus | 28 Kormon - 1 Hestmon | New Years |
+| Beltane | 14 Sylmon - 15 Sylmon | Spring Equinox, Fertility, New Life Celebration |
+| Pyras | 28 Shenmon - 1 Tulmon | Bonfire Night |
+| Midsummer | 14 Pelmon - 15 Pelmon | Summer Solstice, Fertility, Revelry, Sun Celebration |
+| Lammas | 28 Vilmon - 1 Aurmon | First Harvest, Festival of Bread and Beer |
+| Midfall | 14 Avmon - 15 Avmon | Fall Equinox, Second Harvest, Gratitude |
+| Samhain | 28 Huntmon - 1 Talmon | Final Harvest, Day of Dead |
+| Yule | 14 Anmon - 15 Anmon | Winter Solstice, Togetherness, Relevrly | 
