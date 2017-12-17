@@ -16,7 +16,7 @@
 ## The Months
 
 |#| Name | Abbreviation | Earth Equivalent |
-|-|---|----|----|---|
+|---|----|----|---|
 |1| Hestmon | Hen | March |
 |2| Sylmon | Syn | April |
 |3| Shenmon | Shn | May |
