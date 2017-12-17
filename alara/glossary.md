@@ -1,4 +1,5 @@
 # A
+
 | word | definition |
 |--|--|
 | Alara | the world itself|
@@ -18,6 +19,7 @@
 | invasion of Mjurstaad | a suicide mission |
 
 # L
+
 |word|definition|
 |--|--|
 | lolthian | (of a spider) cob-web weaving |
