@@ -13,6 +13,7 @@
 
 # I
 
+|word|definition|
 |--|--|
 | invasion of Mjurstaad | a self-destructive act, a suicide mission |
 
