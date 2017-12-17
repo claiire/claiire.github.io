@@ -52,3 +52,16 @@
 | Midfall | 14 Avmon - 15 Avmon | Fall Equinox, Second Harvest, Gratitude |
 | Samhain | 28 Huntmon - 1 Talmon | Final Harvest, Day of Dead |
 | Yule | 14 Anmon - 15 Anmon | Winter Solstice, Togetherness, Relevrly | 
+
+## Calendar Generation
+
+For a nice-looking year calendar, go to http://donjon.bin.sh/fantasy/calendar/ and restore from the following json:
+
+    {"year_len":336,"events":0,"n_months":12,"months":
+    ["Hestmon","Sylmon","Shenmon","Tulmon","Pelmon","Vilmon","Aurmon",
+    "Avmon","Huntmon","Talmon","Anmon","Kormon"],"month_len":
+    {"Hestmon":28,"Sylmon":28,"Shenmon":28,"Tulmon":28,"Pelmon":28,"Vilmon":28,
+    "Aurmon":28,"Avmon":28,"Huntmon":28,"Talmon":28,"Anmon":28,"Kormon":28},
+    "week_len":7,"weekdays":["Kordi","Mardi","Tulkadi","Hesdi","Vandradi","Syldi",
+    "Dior"],"n_moons":1,"moons":["Antara"],"lunar_cyc":{"Antara":28},"lunar_shf":
+    {"Antara":26},"year":0,"first_day":0,"notes":{}}
