@@ -7,6 +7,8 @@
 |NG |Antara   |Moon, Stars, Wayfinding                 |Light, Nature         |
 |CG |Avandra  |Home, Music, Revelry, Love, Orb-Weavers |Life, Light, Trickery |
 |CG |Tulkas   |Heroes, Fortune, Travel, Adventure      |Knowledge             |
+
+|Al |Name     |Domains                                 | Clerical Domains     |
 |---|---------|----------------------------------------|----------------------|
 |LN |Tyrion   |Justice, Law, Order                     |Knowledge             |
 |LN |Avaria   |Empires, Kingdoms, Commerce, Capital    |War, Knowledge        |
@@ -14,6 +16,8 @@
 |N  |Sylvana  |Animals, Water, Hunters, Nature         |Nature                |
 |CN |Talos    |Rain, Snow, Storms, Winds, Oceans       |Tempest               |
 |CN |Atreides |Revolutions, Wars, Secrets, Theives     |War, Trickery         |
+
+|Al |Name     |Domains                                 | Clerical Domains     |
 |---|---------|----------------------------------------|----------------------|
 |LE |Asmodeus |Devils, Dark Magic Rituals, and Pacts   |Knowledge             |
 |LE |Yathrix  |Authority, Domination, Power, Conquest  |War, Light            |
