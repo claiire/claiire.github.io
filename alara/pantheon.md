@@ -3,9 +3,9 @@
 |---|---------|----------------------------------------|----------------------|
 |LG |Mara     |Wisdom, Craft, Order, Cities, Time      |Knowledge, Light      |
 |LG |Kord     |Sport, Favorable Weather, Good Health   |Life, Tempest         |
+|NG |Avandra  |Love, Revelry, Home, Music, Orb-Weavers |Life, Light, Trickery |
 |NG |Pelor    |Sun, Agriculture, Healers               |Light, Life, Nature   |
 |NG |Antara   |Moon, Stars, Wayfinding                 |Light, Nature         |
-|CG |Avandra  |Home, Music, Revelry, Love, Orb-Weavers |Life, Light, Trickery |
 |CG |Tulkas   |Heroes, Fortune, Travel, Adventure      |Knowledge             |
 
 |Al |Name     |Domains                                 | Clerical Domains     |
