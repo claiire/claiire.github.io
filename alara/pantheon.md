@@ -1,5 +1,5 @@
 
-|Name     |Domains                                 | Clerical Domains     |
+|Name     |Domains                                 |Divine Domains        |
 |---------|----------------------------------------|----------------------|
 |Mara     |Wisdom, Craft, Order, Cities, Time      |Knowledge, Light      |
 |Kord     |Sport, Favorable Weather, Good Health   |Life, Tempest         |
@@ -15,7 +15,7 @@
 |Atreides |Revolutions, Wars, Secrets, Theives     |Trickery, War         |
 |Asmodeus |Devils, Dark Magic, Rituals, and Pacts  |Knowledge             |
 |Yathrix  |Authority, Domination, Power, Conquest  |Light, War            |
-|Vecna    |Dark Secrets, Forbidden Knowledge       |Knowledge             |
+|Vecna    |Dark Secrets, Forbidden Knowledge       |Knowledge, Trickery   |
 |Akreah   |Fiends, Corruption, Twisting            |Trickery              |
-|Huntokar |Death, Destruction, Decay, Deserts      |Death, War            |
-|Agraela  |Demons, Lies, Murder, Greed             |Trickery              |
+|Huntokar |Death, Destruction, Decay, Deserts      |Death, Light, War     |
+|Agraela  |Demons, Lies, Murder, Greed             |Death, Trickery       |
