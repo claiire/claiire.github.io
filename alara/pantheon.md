@@ -2,19 +2,19 @@
 |Name     |Domains                                 |Divine Domains        |
 |---------|----------------------------------------|----------------------|
 |Mara     |Wisdom, Craft, Order, Cities, Time      |Knowledge, Light      |
-|Kord     |Sport, Favorable Weather, Good Health   |Life, Tempest         |
+|Taranis  |Sport, Favorable Weather, Good Health   |Life, Tempest         |
 |Ivandra  |Love, Revelry, Home, Music, Spiders     |Life, Light, Trickery |
-|Ahlor    |Sun, Agriculture, Healers, Birds        |Life, Light, Nature   |
+|Aine     |Sun, Agriculture, Healers, Birds        |Life, Light, Nature   |
 |Antara   |Moon, Stars, Wayfinding                 |Light, Nature         |
 |Tulkas   |Heroes, Fortune, Travel, Adventure      |Knowledge, War        |
 |Tyrion   |Justice, Law, Order                     |Knowledge, Light      |
 |Avaria   |Empires, Kingdoms, Commerce, Capital    |Knowledge, War        |
 |Hester   |Knowledge, Magic, Truth, Rationality    |Knowledge, Light      |
 |Silvana  |Animals, Water, Hunters, Nature         |Nature                |
-|Thalos   |Rain, Snow, Storms, Winds, Oceans       |Tempest, Nature       |
+|Lera     |Rain, Snow, Storms, Winds, Oceans       |Tempest, Nature       |
 |Atreides |Revolutions, Wars, Secrets, Theives     |Trickery, War         |
 |Faust    |Devils, Dark Magic, Rituals, and Pacts  |Knowledge, Trickery   |
 |Yathrix  |Authority, Domination, Power, Conquest  |Light, War            |
 |Akreah   |Fiends, Corruption, Twisting            |Trickery              |
-|ar       |Death, Destruction, Decay               |Death, Light, War     |
+|Ajkna    |Death, Destruction, Decay               |Death, Light, War     |
 |Akrela   |Demons, Lies, Murder, Greed             |Death, Trickery       |
