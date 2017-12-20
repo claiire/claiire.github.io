@@ -6,8 +6,8 @@
 |Avandra  |Love, Revelry, Home, Music, Spiders     |Life, Light, Trickery |
 |Pelor    |Sun, Agriculture, Healers               |Life, Light, Nature   |
 |Antara   |Moon, Stars, Wayfinding                 |Light, Nature         |
-|Tulkas   |Heroes, Fortune, Travel, Adventure      |Knowledge             |
-|Tyrion   |Justice, Law, Order                     |Knowledge             |
+|Tulkas   |Heroes, Fortune, Travel, Adventure      |Knowledge, War        |
+|Tyrion   |Justice, Law, Order                     |Knowledge, Light      |
 |Avaria   |Empires, Kingdoms, Commerce, Capital    |Knowledge, War        |
 |Hester   |Knowledge, Magic, Truth, Rationality    |Knowledge, Light      |
 |Sylvana  |Animals, Water, Hunters, Nature         |Nature                |
