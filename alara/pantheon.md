@@ -4,16 +4,16 @@
 |Mara     |Wisdom, Craft, Order, Cities, Time      |Knowledge, Light      |
 |Kord     |Sport, Favorable Weather, Good Health   |Life, Tempest         |
 |Avandra  |Love, Revelry, Home, Music, Spiders     |Life, Light, Trickery |
-|Pelor    |Sun, Agriculture, Healers               |Life, Light, Nature   |
+|Pelor    |Sun, Agriculture, Healers, Birds        |Life, Light, Nature   |
 |Antara   |Moon, Stars, Wayfinding                 |Light, Nature         |
 |Tulkas   |Heroes, Fortune, Travel, Adventure      |Knowledge, War        |
 |Tyrion   |Justice, Law, Order                     |Knowledge, Light      |
 |Avaria   |Empires, Kingdoms, Commerce, Capital    |Knowledge, War        |
 |Hester   |Knowledge, Magic, Truth, Rationality    |Knowledge, Light      |
 |Sylvana  |Animals, Water, Hunters, Nature         |Nature                |
-|Talos    |Rain, Snow, Storms, Winds, Oceans       |Tempest               |
+|Talos    |Rain, Snow, Storms, Winds, Oceans       |Tempest, Nature       |
 |Atreides |Revolutions, Wars, Secrets, Theives     |Trickery, War         |
-|Asmodeus |Devils, Dark Magic, Rituals, and Pacts  |Knowledge             |
+|Asmodeus |Devils, Dark Magic, Rituals, and Pacts  |Knowledge, Trickery   |
 |Yathrix  |Authority, Domination, Power, Conquest  |Light, War            |
 |Vecna    |Dark Secrets, Forbidden Knowledge       |Knowledge, Trickery   |
 |Akreah   |Fiends, Corruption, Twisting            |Trickery              |
