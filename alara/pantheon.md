@@ -16,5 +16,5 @@
 |Faust    |Devils, Dark Magic, Rituals, and Pacts  |Knowledge, Trickery   |
 |Yathrix  |Authority, Domination, Power, Conquest  |Light, War            |
 |Akreah   |Fiends, Corruption                      |Trickery              |
-|Ajakar   |Death, Destruction, Decay               |Death, Light, War     |
-|Agrea    |Demons, Lies, Murder, Greed             |Death, Trickery       |
+|Anakar   |Death, Destruction, Decay               |Death, Light, War     |
+|Agara    |Demons, Lies, Murder, Greed             |Death, Trickery       |
