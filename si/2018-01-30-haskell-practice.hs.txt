@@ -1,10 +1,10 @@
 -- 30 january 12,018
--- this excercise was made by clairec for her si students. if  
--- you're an si student, please do not give this file to your 
+-- this excercise was made with ♥ by clairec for her si students. 
+-- if you're an si student, please do not give this file to your 
 -- peers!
 -- my job depends on performance stats and when materials are 
 -- shared outside of si, those statistics get skewed.
--- ♥ i like my job, please don't share this with your peers~
+-- i like my job, please don't share this with your peers~
 
 -- ends: return the first & last elements of a list as a tuple
 -- ex: ends [1,2,3,4] -> Just (1,4)
