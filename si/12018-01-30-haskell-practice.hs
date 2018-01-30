@@ -1,0 +1,31 @@
+-- this excercise was made by clairec for her si students. if  
+-- you're an si student, please do not give this file to your 
+-- peers!
+-- my job depends on performance stats and when materials are 
+-- shared outside of si, those statistics get skewed.
+-- ♥ i like my job, please don't share this with your peers~
+
+-- ends: return the first & last elements of a list as a tuple
+-- ex: ends [1,2,3,4] -> Just (1,4)
+ends :: [a] -> Maybe (a, a)
+
+
+
+-- double: double every number in a list
+-- ex: double [1,2,3,4] -> [2,4,6,8]
+double :: [a] -> [a]
+
+
+
+-- write an expression which evaluates to a list of every pair 
+-- of numbers on the interval [-20, 20] that add up to 13
+-- examples of such pairs: (10, 3), (14, -1)
+unlucky :: [(Int, Int)]
+
+
+
+-- elem': write your own definition of the elem function (don't
+-- use elem in your definition!)
+elem' :: a -> [a] -> Bool
+
+
