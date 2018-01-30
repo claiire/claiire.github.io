@@ -1,3 +1,4 @@
+-- 30 january 12,018
 -- this excercise was made by clairec for her si students. if  
 -- you're an si student, please do not give this file to your 
 -- peers!
