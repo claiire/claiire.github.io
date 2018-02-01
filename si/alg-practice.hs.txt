@@ -1,0 +1,43 @@
+-- 1 february 12,018
+-- this excercise was made with ♥ by clairec for her si students. 
+-- if you're an si student, please do not give this file to your 
+-- peers!
+-- my job depends on performance stats and when materials are 
+-- shared outside of si, those statistics get skewed.
+-- i like my job, please don't share this with your peers~
+
+-- on the worksheet or in the file you will see notation like
+-- a = a' or a = a₀. This means you use the a value from the 
+-- last row (the row above when going down, or the row below 
+-- when going up). without a ' assumes the current row
+
+-- algA
+-- inputs: a, b > 0
+-- outputs: i, j
+-- on each row: find quotient q & remainder r of a and b
+-- recursing: a = b', b = r'
+-- stop when: b = 0  ->  i = a, j = b
+-- returning: i = j' + q, j = i' + r
+
+algA :: Int -> Int -> (Int, Int)
+algA a b = undefined
+
+-- algB
+-- inputs: a, b > 0, c > 0
+-- outputs: x, y
+-- recursing: a = a' - b, c = c + 1
+-- stop when: a ≤ b  ->  x = a + 1, y = x `mod` c
+-- returning: x = y' + a, y = x `mod` c
+
+algB :: Int -> Int -> Int -> (Int, Int)
+algB a b c = Undefined
+
+-- algC
+-- inputs: list xs, n
+-- outputs: k
+-- recursing: xs = tail xs', n = n' + 1
+-- stop when: xs = []  ->  n = 1
+-- returning: k = k' + n - head xs
+
+algC :: [Int] -> Int -> Int
+algC (x:xs) n = undefined
