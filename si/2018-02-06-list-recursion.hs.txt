@@ -28,7 +28,7 @@ interval = undefined
 -- fractional parts of them. 
 -- hint: use the floor' function given to you below
 -- ex: sumFractions [3.14, 2.71, 1.61]
--- returns 1.46
+-- returns 0.14 + .071 + 0.61 = 1.46
 floor' :: (RealFrac a, Num b) => a -> b
 floor' = fromIntegral . floor
 
