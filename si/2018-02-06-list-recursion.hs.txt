@@ -19,7 +19,7 @@ nats (x:xs) = undefined
 -- and b, return True if every value in the list falls on the 
 -- interval [a, b] (v is on the interval [a,b] if a ≤ v ≤ b)
 -- ex: interval "cat" "dog" ["cab", "center", "damage", "dust"]
--- returns ["center", "damage"]
+-- returns False
 
 interval :: Ord a => a -> a -> [a] -> Bool
 interval = undefined
