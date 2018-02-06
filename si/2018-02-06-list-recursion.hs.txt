@@ -1,0 +1,44 @@
+-- 06 februrary 12,018
+-- this excercise was made with ♥ by clairec for her si students. 
+-- if you're an si student, please do not give this file to your 
+-- peers!
+-- my job depends on performance stats and when materials are 
+-- shared outside of si, those statistics get skewed.
+-- i like my job, please don't share this with your peers~
+
+-- nats: given a list of integers, return only those in the set
+-- of "natural numbers" (integers which are greater than or equal
+-- to zero)
+-- ex: nats [-3, 15, 0, 12]
+-- returns [15, 0, 12]
+nats :: Integral a => [a] -> [a]
+nats [] = undefined
+nats (x:xs) = undefined
+
+-- interval: given a list of orderable items, and two values, a
+-- and b, return True if every value in the list falls on the 
+-- interval [a, b] (v is on the interval [a,b] if a ≤ v ≤ b)
+-- ex: interval "cat" "dog" ["cab", "center", "damage", "dust"]
+-- returns ["center", "damage"]
+
+interval :: Ord a => a -> a -> [a] -> Bool
+interval = undefined
+
+-- sumFractionals: given a list of real numbers, sum just the
+-- fractional parts of them. 
+-- hint: use the floor' function given to you below
+-- ex: sumFractionals [3.14, 2.71, 1.61]
+-- returns 1.46
+floor' (RealFrac a, Num b) => a -> b
+floor' = fromIntegral . floor
+
+sumFractions :: RealFrac a => [a] -> a
+sumFractions = undefined
+
+-- intersect: given two lists, return every element that appears
+-- in both lists
+-- ex: intersect [1,3,0,7] [6,2,0,3]
+-- returns [0,3]
+intersect :: Eq a => [a] -> [a] -> [a]
+intersect [] ys = undefined
+intersect (x:xs) ys = undefined
