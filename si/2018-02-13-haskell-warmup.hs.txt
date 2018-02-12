@@ -12,9 +12,9 @@
 mirrors :: [[a]] -> [[a]]
 mirrors = undefined
 
--- write the same function in one line, using map
--- define a helper function mirror if you need to, or use
--- a lambda expression
+-- write the same function without using recursion.
+-- if you need to, define a helper function ("mirror") or
+-- use a lambda expression
 mirrors' :: [[a]] -> [[a]]
 mirrors' = undefined
 
