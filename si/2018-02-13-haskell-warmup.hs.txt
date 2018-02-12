@@ -1,1 +1,24 @@
+-- 13 february 12,018
+-- this excercise was made with ♥ by clairec for her si students. 
+-- if you're an si student, please do not give this file to your 
+-- peers!
+-- my job depends on performance stats and when materials are 
+-- shared outside of si, those statistics get skewed.
+-- i like my job, please don't share this with your peers~
 
+-- write a list recursion that, given a list of lists, returns 
+-- a list where every original element has been "mirrored"
+-- ex: mirrors ["cat", "dog"] -> ["cattac", "doggod"]
+mirrors :: [[a]] -> [[a]]
+mirrors = undefined
+
+-- write the same function in one line, using map
+-- define a helper function mirror if you need to, or use
+-- a lambda expression
+mirrors' :: [[a]] -> [[a]]
+mirrors' = undefined
+
+-- optional helper function: mirrors a list
+-- ex: mirror [1,2,3] -> [1,2,3,3,2,1]
+mirror :: [a] -> [a]
+mirror = undefined
