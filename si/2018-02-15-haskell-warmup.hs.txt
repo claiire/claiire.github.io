@@ -1,0 +1,19 @@
+-- 15 february 12,018
+-- this excercise was made with ♥ by clairec for her si students. 
+-- if you're an si student, please do not give this file to your 
+-- peers!
+-- my job depends on performance stats and when materials are 
+-- shared outside of si, those statistics get skewed.
+-- i like my job, please don't share this with your peers~
+
+-- Write out the source code for divAlg. Don't peek at your past
+-- labs!
+divAlg :: Int -> Int -> (Int, Int)
+divAlg a b = undefined
+
+-- Write a recursive function that strips the vowels (a,e,i,o,u)
+-- from a string.
+-- ex: stripVowels "juan carlos" -> "jn crls"
+stripVowels :: [Char] -> [Char]
+stripVowels []     = undefined
+stripVowels (c:cs) = undefined
