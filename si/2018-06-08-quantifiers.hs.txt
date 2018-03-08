@@ -1,0 +1,120 @@
+-- this worksheet was made with <3 for cs60 si students only.
+-- please do not distribute to students outside of si!
+
+        -- a nicer-looking implies operator, because <= is confusing
+        -- and hard to read.
+(==>) :: Bool -> Bool -> Bool
+p ==> q  =  p <= q
+        -- s `knows` t returns true if s knows t
+knows :: Student -> Student -> Bool
+knows (Student _ _ ks) b = b `elem` ks
+        -- freshman s returns true if s is a freshman
+freshman :: Student -> Bool
+freshman (Student _ y _) = y == 1
+        -- senior s returns true if s is a senior
+senior :: Student -> Bool
+senior (Student _ y _) = y == 4
+        -- Our universe of discourse, a list of students
+students :: [Student]
+students = [ alison, chosa, dimitri
+           , salvador, juanCarlos, michael
+           , stanley, madhuri, nobody]
+
+-- Convert these quantifier statements to haskell code
+-- Run "test quants" in ghci after they're all defined 
+-- to check your values
+
+-- There is a student who doesnt know anybody
+quant1 = undefined
+
+-- There is a freshman who knows everybody
+quant2 = undefined
+
+-- There is a student who exactly one person knows
+quant3 = undefined
+
+-- There is a student who only knows themself
+quant4 = undefined
+
+-- dimitri knows everybody salvador knows 
+quant5 = undefined
+
+-- every freshman has at least one student who knows them
+quant6 = undefined
+
+-- every senior knows at least one person
+quant7 = undefined
+
+-- There is a student who exactly two people know
+quant8 = undefined
+
+
+-- * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~
+
+
+
+
+-- End of worksheet.
+
+-- You don't need to understand the stuff beyond this point. 
+-- Feel free to take a look if you're interested though.
+
+
+
+
+
+-- * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~
+
+
+
+
+
+-- A student is described with a String (their name), an Int
+-- (their year), and a list (the students they know)
+data Student = Student String Int [Student]
+
+-- Two students are considered equal if they have the same name
+instance Eq Student where
+    (Student n _ _) == (Student m _ _) = n == m
+
+-- Defining some student names
+alison     = Student "alison"     1 [alison, michael, juanCarlos]
+chosa      = Student "chosa"      4 [chosa]
+dimitri    = Student "dimitri"    4 [ dimitri
+                                    , salvador
+                                    , michael
+                                    , stanley
+                                    , madhuri
+                                    ]
+salvador   = Student "salvador"   2 [salvador, stanley, madhuri]
+juanCarlos = Student "juanCarlos" 3 [juanCarlos, alison, michael]
+michael    = Student "michael"    2 [michael, dimitri, salvador, juanCarlos]
+stanley    = Student "stanley"    3 [stanley, alison, juanCarlos]
+madhuri    = Student "madhuri"    1 [ madhuri
+                                    , stanley
+                                    , michael
+                                    , juanCarlos
+                                    , salvador
+                                    , dimitri
+                                    , chosa
+                                    , alison
+                                    ]
+nobody     = Student "nobody"     1 []
+
+-- test function
+test :: [(String, Bool)] -> IO ()
+test []     = putStrLn "All correct!"
+test ((s, b):ts)
+  | b         = test ts
+  | otherwise = putStrLn $ "error found at " ++ s
+
+-- a list of our quantifier statements, with their names. 
+quants = [ ("quant1", quant1)
+         , ("quant2", quant2)
+         , ("quant3", quant3)
+         , ("quant4", quant4)
+         , ("quant5", quant5)
+         , ("quant6", quant6)
+         , ("quant7", quant7)
+         , ("quant8", quant8)
+         ]
